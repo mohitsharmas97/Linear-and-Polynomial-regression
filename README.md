@@ -29,10 +29,15 @@ This repository contains two machine learning models:
 
 ## 🛠️ Installation
 
+Clone the repository and install dependencies:
+
 ```bash
+git clone https://github.com/yourusername/regression-models.git
+cd regression-models
 pip install -r requirements.txt
 
-Requirements:
+
+## Requirements:
 
 Python 3.8+
 scikit-learn==1.6.1
@@ -40,3 +45,4 @@ numpy
 matplotlib
 seaborn
 joblib
+
